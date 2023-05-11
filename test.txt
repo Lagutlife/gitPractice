@@ -1,0 +1,166 @@
+What needs to be recaped
+GIThub
+JIRA
+SQL 
+API
+APIUM
+What is regresssion test, smoke test
+What is BDD
+What is data base behavior
+What is Gherkin language
+Linux commands
+What is edge cases
+Daemon mode = its always on, until you stop 
+Batch mode = it runs once, then it will stop
+
+At CME, I worked on multiple applications at the same time with different teams. All of them were internal backend applications that were used by other applications.
+One of the applications was synchronizing data between different regions, like: America, Asia, Europe.
+
+Another application was to verify messages in different Kafta clusters.
+
+
+I used to work in pressure. When the project needs to be done in cirtain time. 
+Need to do planning how its gonna work.
+If the project is in rush first do it manual testing only if you have time automate it.
+Need to prioritize the testing on important things on application.
+
+What will be the approach to automate the appllication?
+First of all i would talk to other QA existing in this company. Need to understand the application. Ask QA specialist how deep did they test
+read requirements
+make sure application test is easy to maintain,understand, manage. 
+Do you have some deadlines?
+
+How do you prioritize your work. If theres is no order what to do test first than you need to test first what is going to production.
+
+
+Albina IQ
+How do you ensure the defects are effectively communicated to the dev team?
+Create bug report 
+With steps of how re-create the bug 
+Attach screen shots, videos, 
+Write your test cases in Jira. Documate your bug. 
+Go up to Developer and ask questions, explain what you see.
+
+PO BA might be useful when there are not enough requirements
+
+What is your general approach of developing test plans, test cases?
+understanding the requirements.
+test plans we write in canfluens. what kind of tools we gonna use. 
+test cases we write in jira only 
+Agile Epic,US,
+test writen by me, if you are only one in QA team. If there are more than one than together
+first 
+if dev dont have test data we can ask is it ok to use Faker or Scanner. What  is test data
+You can leave automatoin after the release
+
+How do you prioritze testing task?
+Hot fix-production bugs need to go fix
+Jira will show us the priority tickets
+Priorities will change every day or every week. 
+
+What Challanges did you face and how you solve them?
+New feature added
+Lack of requirements 
+Lack of resources  // resources is another QA or Dev short
+Lack of test data  
+Server issues 
+Poor Communication
+
+
+Deployment happens in Dev Envirement its there job. QA test it and say to Dev that is good to go they deploy it.
+From QA when you ensure that there are no bugs it goes to staging or integration envirement 
+
+
+How do you define success and when the project went really well?
+Feedback from the team 
+Retro meeting 
+All tests are passed 
+Automation testing passed 
+
+How do you stay up to date with latest technologies and testing streategies?
+QA groups In LinkedIn
+Tech Conferences
+Taking courses in Udemi
+Coompany provided courses()
+
+Is it anything else i have to know about you as a PM-QA
+relationship?
+Good communicator
+Detail oriented person
+Good within skills 
+Project management skills 
+If i need something You will be the first to know
+
+
+
+Sanity test - lighter version of smoke test. Make sure appliction is up and running. Basicly you dont check behavior of the. After every deployment
+Smoke test - everyday
+Regression test - UI ones in sprints before product release.Back end every day for you UI not every day
+Integreation test - make sure one app (old version in tech world it called built) works with a app (new version)
+Functional test - when you run only function 
+
+
+KARATE
+KT - knowwledge transfer
+URL - host name or ending point 
+URI - is ending point 
+In karate is good always do attache documentation
+When we define the value we need to use '#string' it means value MUST be string not null if there is '##string' the value can be null
+if its integer '#number'
+for array '##array'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
